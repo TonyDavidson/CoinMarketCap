@@ -1,0 +1,6 @@
+btc 1.2
+zec 0.0035
+xrp 1
+eth 12
+banca 2000
+bet 6.5
